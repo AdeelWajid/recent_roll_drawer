@@ -1,8 +1,8 @@
 name: recent_roll_drawer
 description: A Flutter package providing a unique roll drawer with screen previews and customizable animations.
 version: 1.0.0
-homepage: https://github.com/yourusername/recent_roll_drawer
-repository: https://github.com/yourusername/recent_roll_drawer
+homepage: https://github.com/AdeelWajid/recent_roll_drawer
+repository: https://github.com/AdeelWajid/recent_roll_drawer
 
 environment:
   sdk: ^3.10.8
